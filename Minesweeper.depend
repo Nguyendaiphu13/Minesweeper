@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1746364220 source:d:\ltnc\minesweeper\function.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"main.h"
+	"function.h"
+
+1746363531 d:\ltnc\minesweeper\main.h
+	<iostream>
+
+1746363890 d:\ltnc\minesweeper\function.h
+	"main.h"
+
+1746365398 source:d:\ltnc\minesweeper\graphics.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"main.h"
+	"function.h"
+
+1746364551 d:\ltnc\minesweeper\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"main.h"
+
+1746365750 source:d:\ltnc\minesweeper\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"main.h"
+	"function.h"
+	"graphics.h"
+
